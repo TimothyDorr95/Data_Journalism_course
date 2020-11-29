@@ -1,0 +1,5 @@
+In this repository I have a small notebook that goes through two examples of how to Use selenium. 
+I have also added the geckodriver file you will need to run the selenium script. 
+All you need to do is change the working directory file and the path file of where the geckodriver file is (starting from your working directory). 
+Feel free to reach out if you have any questions. 
+Good luck!
